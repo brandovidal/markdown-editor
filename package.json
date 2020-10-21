@@ -1,0 +1,14 @@
+{
+  "name": "markdown-editor",
+  "version": "1.0.0",
+  "main": "app/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^10.1.4",
+    "marked": "^1.2.0"
+  }
+}
+
